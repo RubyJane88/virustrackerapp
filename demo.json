@@ -1,0 +1,231 @@
+{
+  "status": 200,
+  "type": "stack",
+  "data": {
+    "2021-04-11": {
+      "total_cases": 31871547,
+      "deaths": 575606,
+      "recovered": 24423673,
+      "critical": 9206,
+      "tested": 418268787,
+      "death_ratio": 0.01806018390007865,
+      "recovery_ratio": 0.7663158929812851
+    },
+    "2021-04-10": {
+      "total_cases": 31868219,
+      "deaths": 575568,
+      "recovered": 24419311,
+      "critical": 9149,
+      "tested": 418138724,
+      "death_ratio": 0.01806087751562144,
+      "recovery_ratio": 0.766259043217947
+    },
+    "2021-04-09": {
+      "total_cases": 31799237,
+      "deaths": 574807,
+      "recovered": 24341902,
+      "critical": 9072,
+      "tested": 416695211,
+      "death_ratio": 0.01807612553722594,
+      "recovery_ratio": 0.7654869832254151
+    },
+    "2021-04-07": {
+      "total_cases": 31634539,
+      "deaths": 571091,
+      "recovered": 24203389,
+      "critical": 9024,
+      "tested": 413313253,
+      "death_ratio": 0.018052768210088346,
+      "recovery_ratio": 0.7650937793024264
+    },
+    "2021-04-06": {
+      "total_cases": 31558576,
+      "deaths": 570237,
+      "recovered": 24120193,
+      "critical": 8895,
+      "tested": 412168632,
+      "death_ratio": 0.018069161295490646,
+      "recovery_ratio": 0.7642991559568467
+    },
+    "2021-04-05": {
+      "total_cases": 31484493,
+      "deaths": 569181,
+      "recovered": 24019147,
+      "critical": 8724,
+      "tested": 410617011,
+      "death_ratio": 0.018078137704170747,
+      "recovery_ratio": 0.7628881621184117
+    },
+    "2021-04-04": {
+      "total_cases": 31419550,
+      "deaths": 568765,
+      "recovered": 23946479,
+      "critical": 8703,
+      "tested": 409357398,
+      "death_ratio": 0.018102264354518127,
+      "recovery_ratio": 0.7621521950505338
+    },
+    "2021-04-02": {
+      "total_cases": 31311408,
+      "deaths": 567519,
+      "recovered": 23823823,
+      "critical": 8698,
+      "tested": 408634569,
+      "death_ratio": 0.018124991376944788,
+      "recovery_ratio": 0.7608671893643365
+    },
+    "2021-04-01": {
+      "total_cases": 31242490,
+      "deaths": 566254,
+      "recovered": 23752876,
+      "critical": 8750,
+      "tested": 405004469,
+      "death_ratio": 0.018124483675916996,
+      "recovery_ratio": 0.7602747412258114
+    },
+    "2021-03-31": {
+      "total_cases": 31161286,
+      "deaths": 565195,
+      "recovered": 23670368,
+      "critical": 8756,
+      "tested": 403210587,
+      "death_ratio": 0.01813773025927107,
+      "recovery_ratio": 0.7596081881858149
+    },
+    "2021-03-29": {
+      "total_cases": 31028530,
+      "deaths": 563183,
+      "recovered": 23503848,
+      "critical": 8652,
+      "tested": 400624569,
+      "death_ratio": 0.018150489243286744,
+      "recovery_ratio": 0.7574915086212592
+    },
+    "2021-03-28": {
+      "total_cases": 30957520,
+      "deaths": 562456,
+      "recovered": 23408962,
+      "critical": 8555,
+      "tested": 399266586,
+      "death_ratio": 0.018168638831534308,
+      "recovery_ratio": 0.756163995048699
+    },
+    "2021-03-27": {
+      "total_cases": 30916381,
+      "deaths": 561996,
+      "recovered": 23347847,
+      "critical": 8596,
+      "tested": 398274665,
+      "death_ratio": 0.01817793615624028,
+      "recovery_ratio": 0.7551934037816392
+    },
+    "2021-03-26": {
+      "total_cases": 30848053,
+      "deaths": 561067,
+      "recovered": 23271044,
+      "critical": 8598,
+      "tested": 396999622,
+      "death_ratio": 0.01818808467425805,
+      "recovery_ratio": 0.7543764269336545
+    },
+    "2021-03-24": {
+      "total_cases": 30701959,
+      "deaths": 558235,
+      "recovered": 23127646,
+      "critical": 8619,
+      "tested": 393724349,
+      "death_ratio": 0.01818239025073286,
+      "recovery_ratio": 0.7532954493229569
+    },
+    "2021-03-23": {
+      "total_cases": 30633316,
+      "deaths": 556792,
+      "recovered": 22924134,
+      "critical": 8628,
+      "tested": 392165169,
+      "death_ratio": 0.018176027694814363,
+      "recovery_ratio": 0.7483399446537228
+    },
+    "2021-03-22": {
+      "total_cases": 30571262,
+      "deaths": 555881,
+      "recovered": 22840912,
+      "critical": 8601,
+      "tested": 390893786,
+      "death_ratio": 0.018183122437012905,
+      "recovery_ratio": 0.7471367063616805
+    },
+    "2021-03-21": {
+      "total_cases": 30520435,
+      "deaths": 555296,
+      "recovered": 22752965,
+      "critical": 8649,
+      "tested": 389763507,
+      "death_ratio": 0.018194236091327008,
+      "recovery_ratio": 0.7454993678825351
+    },
+    "2021-03-19": {
+      "total_cases": 30422721,
+      "deaths": 553899,
+      "recovered": 22606480,
+      "critical": 9125,
+      "tested": 387273535,
+      "death_ratio": 0.018206754090142035,
+      "recovery_ratio": 0.7430788324292229
+    },
+    "2021-03-18": {
+      "total_cases": 30356544,
+      "deaths": 552277,
+      "recovered": 22520725,
+      "critical": 9218,
+      "tested": 385621068,
+      "death_ratio": 0.01819301301228493,
+      "recovery_ratio": 0.7418738114589065
+    },
+    "2021-03-17": {
+      "total_cases": 30290800,
+      "deaths": 550548,
+      "recovered": 22444291,
+      "critical": 9347,
+      "tested": 383870812,
+      "death_ratio": 0.018175419599350297,
+      "recovery_ratio": 0.7409606547202451
+    },
+    "2021-03-16": {
+      "total_cases": 30189873,
+      "deaths": 549194,
+      "recovered": 22358852,
+      "critical": 9357,
+      "tested": 382501988,
+      "death_ratio": 0.01819133190788845,
+      "recovery_ratio": 0.7406076865576745
+    },
+    "2021-03-14": {
+      "total_cases": 30081023,
+      "deaths": 547219,
+      "recovered": 22168542,
+      "critical": 9435,
+      "tested": 380221845,
+      "death_ratio": 0.018191502330223278,
+      "recovery_ratio": 0.7369610401880282
+    },
+    "2021-03-13": {
+      "total_cases": 30042729,
+      "deaths": 546553,
+      "recovered": 22107825,
+      "critical": 11371,
+      "tested": 377497667,
+      "death_ratio": 0.018192521724640927,
+      "recovery_ratio": 0.7358793869891114
+    },
+    "2021-03-12": {
+      "total_cases": 29989051,
+      "deaths": 545354,
+      "recovered": 22029360,
+      "critical": 11759,
+      "tested": 376068767,
+      "death_ratio": 0.018185103623319057,
+      "recovery_ratio": 0.7345800972494928
+    }
+  }
+}
