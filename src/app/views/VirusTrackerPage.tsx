@@ -67,19 +67,19 @@ const VirusTrackerPage = () => {
           <Chart
             options={{
               chart: {
-                height: 500,
+                height: 700,
                 type: "line",
                 zoom: {
-                  enabled: false,
+                  enabled: true,
                 },
               },
               dataLabels: {
                 enabled: false,
               },
               stroke: {
-                width: [6, 8, 6],
+                width: [10, 12, 10],
                 curve: "straight",
-                dashArray: [0, 8, 5],
+                dashArray: [2, 10, 6],
               },
               title: {
                 text: "30-Day Covid Stats",
